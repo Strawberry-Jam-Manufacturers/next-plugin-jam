@@ -1,0 +1,12 @@
+{
+  "name": "@next/jam-plugin",
+  "version": "0.0.1",
+  "nextjs": {
+    "name": "Jam Plugin",
+    "required-env": []
+  },
+  "peerDependencies": {
+    "next": "*",
+    "react": "*"
+  }
+}
